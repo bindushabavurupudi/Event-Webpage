@@ -50,6 +50,10 @@
     text-decoration: none;
     color: white;
 }
+li a:hover{
+    color: rgb(0, 166, 255);
+    transition: 0.3s;
+}
 .list{
     margin-left: 3.5vw;
 }
