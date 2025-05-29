@@ -56,11 +56,11 @@
 table,
 th,
 td {
-    border: 1px solid black;
+    border: 0.1vw solid black;
     border-collapse: collapse;
 }
 th, td {
-        padding: 20px;
+        padding: 1.5vw;
 }
 .heads{
     font-size: 2.3vw;
@@ -102,19 +102,19 @@ th, td {
     width: 50vw;
     padding: 1vw;
     border-radius: 0.2vw;
-    border: 1px solid black;
+    border: 0.1vw solid black;
 }
 #email{
     width: 50vw;
     padding: 1vw;
     border-radius: 0.2vw;
-    border: 1px solid black;
+    border: 0.1vw solid black;
 }
 #message{
     width: 50vw;
     padding: 1vw;
     border-radius: 0.2vw;
-    border: 1px solid black;
+    border: 0.1vw solid black;
 }
 .line{
     line-height: 6vh;
